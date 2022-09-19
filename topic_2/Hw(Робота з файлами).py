@@ -31,6 +31,8 @@
 #     list2 = [a ** 2 for a in list1]
 #     print(list2)
 #     f1.write(f'{str(list2)} \n')
+
+
 # with open("fil.txt", "a") as f1:
 #     list1 = (x ** 2 if x // 2  else x for x in range (0, 100, 2))
 #     print(list(list1))
